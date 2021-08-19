@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+django-heroku = "*"
+dj-database-url = "*"
+python-decouple = "*"
 
 [dev-packages]
 
